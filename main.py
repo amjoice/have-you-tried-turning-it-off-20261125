@@ -6,7 +6,7 @@ Writes one funny line from a hopeless tech support agent to
 
 import os
 
-LINE = "I'm escalating this to Tier 2, which is me, but with a different hat."
+LINE = "Whole office down, third call today — escalating to Tier 2, which is me, but with a different hat."
 
 
 def main():
